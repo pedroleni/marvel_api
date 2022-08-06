@@ -1,0 +1,4 @@
+# NODE_MODULES NO DOWLOAD
+/node_modules
+
+.env 

@@ -1,0 +1,529 @@
+[{
+    "images": ["https://es.web.img2.acsta.net/c_310_420/pictures/22/03/21/14/03/3443055.jpg"],
+    "name": "Robert John Downey Jr",
+    "gender": "male" ,
+    "origin": "Americano",
+    "age": 57 ,
+    "character": "Personaje : Tony Stark / Iron Man"
+    
+},
+{
+    "images": ["https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/63/80/29/20458432.jpg"],
+    "name": "Terrence Dashon Howard",
+    "gender": "male",
+    "origin": "Chicago, Illinois - EE.UU",
+    "age": 53,
+    "character": "Jim Rhodes"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/pictures/15/08/12/12/18/463766.jpg"],
+    "name": "Gwyneth Kate Paltrow",
+    "gender": "female",
+    "origin": "Los Ángeles, California - EE.UU",
+    "age": 49,
+    "character": "Pepper Potts"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/35/25/66/19537416.jpg"],
+    "name": "Edward Norton",
+    "gender": "male" ,
+    "origin": "Maryland, - EE.UU",
+    "age": 52 ,
+    "character": "Bruce Banner / Hulk"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/pictures/15/12/23/12/17/027916.jpg"],
+    "name": "Liv Rundgren Tyler",
+    "gender": "female"  ,
+    "origin": "Nueva York - EE-UU",
+    "age": 45 ,
+    "character": "Betty Ross"
+    
+},
+{
+    "images": ["https://es.web.img2.acsta.net/c_310_420/pictures/21/07/13/16/37/1103801.jpg"],
+    "name": "Tim Roth",
+    "gender": "male",
+    "origin": "Londres, Inglaterra - Reino Unido",
+    "age": 61,
+    "character": "Emil Blonsky / L'Abomination"
+    
+},
+{
+    "images": ["https://es.web.img2.acsta.net/c_310_420/pictures/15/11/24/16/49/154499.jpg"],
+    "name": "Don Cheadle",
+    "gender": "male" ,
+    "origin": "Missouri - EE.UU",
+    "age": 57 ,
+    "character": "Jim Rhodes"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/pictures/20/01/07/02/04/3952839.jpg"],
+    "name": "Scarlett Johansson",
+    "gender": "female",
+    "origin": "Nueva York, - EE.UU",
+    "age": 37 ,
+    "character": "Natasha Romanoff"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/pictures/15/07/27/12/24/354255.jpg"],
+    "name": "Samuel L. Jackson",
+    "gender": "male" ,
+    "origin": "Washington - EE-UU",
+    "age": 73,
+    "character": "Nick Fury"
+    
+},
+{
+    "images": ["https://es.web.img2.acsta.net/c_310_420/pictures/19/06/05/12/04/5240675.jpg"],
+    "name": "Chris Hemsworth",
+    "gender": "male" ,
+    "origin": "Melbourne - Australia",
+    "age": 38 ,
+    "character": "Thor"
+    
+},
+{
+    "images": ["https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/35/38/61/19636935.jpg"],
+    "name": "Natalie Portman",
+    "gender":  "female"  ,
+    "origin": "Jerusalén, - Israel",
+    "age": 41,
+    "character": "Jane Foster"
+    
+},
+{
+    "images": ["https://es.web.img2.acsta.net/c_310_420/pictures/15/09/15/12/11/361546.jpg"],
+    "name": "Anthony Hopkins",
+    "gender": "male"  ,
+    "origin": "Gales - Inglaterra",
+    "age": 84 ,
+    "character": "Odin"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/35/47/92/20091403.jpg"],
+    "name": "Chris Evans",
+    "gender": "male"  ,
+    "origin": "Boston, Massachusetts - EE.UU",
+    "age": 41,
+    "character": "Capitan America"
+    
+},
+{
+    "images": ["https://es.web.img2.acsta.net/c_310_420/pictures/15/06/30/16/17/127452.jpg"],
+    "name": "Hayley Atwell",
+    "gender":  "female" ,
+    "origin": "Britanica",
+    "age": 40 ,
+    "character": "Peggy Carter"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/pictures/18/01/08/13/57/1803057.jpg"],
+    "name": "Sebastian Stan",
+    "gender": "male" ,
+    "origin": "Rumano",
+    "age": 39 ,
+    "character": "Bucky Barnes / The Winter Soldier"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/pictures/15/08/12/12/29/266164.jpg"],
+    "name": "Mark Ruffalo",
+    "gender": "male",
+    "origin": "Wisconsin, - EE.UU",
+    "age": 54,
+    "character": "Hulk"
+    
+},
+{
+    "images": ["https://es.web.img3.acsta.net/c_310_420/pictures/15/07/29/10/30/188778.jpg"],
+    "name": "Ben Kingsley",
+    "gender": "male" ,
+    "origin": "Scarborough - Reino Unido",
+    "age": 78,
+    "character": "The mandarin"
+    
+},
+{
+    "images": [""],
+    "name": "",
+    "gender": "male" "female" "other" ,
+    "origin": "",
+    "age": ,
+    "character": "",
+    
+},
+{
+    "images": [""],
+    "name": "",
+    "gender": "male" "female" "other" ,
+    "origin": "",
+    "age": ,
+    "character": "",
+    
+},
+{
+    "images": [""],
+    "name": "",
+    "gender": "male" "female" "other" ,
+    "origin": "",
+    "age": ,
+    "character": "",
+    
+},
+{
+    "images": [""],
+    "name": "",
+    "gender": "male" "female" "other" ,
+    "origin": "",
+    "age": ,
+    "character": "",
+    
+},
+{
+    "images": [""],
+    "name": "",
+    "gender": "male" "female" "other" ,
+    "origin": "",
+    "age": ,
+    "character": "",
+    
+},
+{
+    "images": [""],
+    "name": "",
+    "gender": "male" "female" "other" ,
+    "origin": "",
+    "age": ,
+    "character": "",
+    
+},
+{
+    "images": [""],
+    "name": "",
+    "gender": "male" "female" "other" ,
+    "origin": "",
+    "age": ,
+    "character": "",
+    
+},
+
+{
+	"status": 200,
+	"message": "Recover all DC Heroes",
+	"data": {
+		"film": [
+			{
+				"_id": "62e988df4d5bbb2468548250",
+				"images": [
+					"https://i0.wp.com/padresfrikis.com/wp-content/uploads/2018/05/iron-man.jpg?zoom=2&resize=150%2C150&ssl=1"
+				],
+				"name": "IRON MAN",
+				"fase": "Fase 1",
+				"date": 208,
+				"description": "Presentación de Iron Man (Tony Stark) y su origen. La última escena consiste en Tony Stark reconociendo en una rueda de prensa que él es Iron Man.",
+				"actors": [
+					{
+						"_id": "62e985ab4d5bbb246854822f",
+						"name": "Terrence Dashon Howard",
+						"gender": "male",
+						"origin": "Chicago, Illinois - EE.UU",
+						"createdAt": "2022-08-02T20:14:35.125Z",
+						"updatedAt": "2022-08-02T20:14:35.125Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e9859b4d5bbb246854822d",
+						"name": "Robert John Downey Jr",
+						"gender": "male",
+						"origin": "Americano",
+						"createdAt": "2022-08-02T20:14:19.720Z",
+						"updatedAt": "2022-08-02T20:14:19.720Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e985bd4d5bbb2468548231",
+						"name": "Gwyneth Kate Paltrow",
+						"gender": "female",
+						"origin": "Los Ángeles, California - EE.UU",
+						"createdAt": "2022-08-02T20:14:53.273Z",
+						"updatedAt": "2022-08-02T20:14:53.273Z",
+						"__v": 0
+					}
+				],
+				"createdAt": "2022-08-02T20:28:15.083Z",
+				"updatedAt": "2022-08-02T20:28:15.083Z",
+				"__v": 0
+			},
+			{
+				"_id": "62e98ab54d5bbb246854825e",
+				"images": [
+					"https://i0.wp.com/padresfrikis.com/wp-content/uploads/2018/05/iron-man-2.jpg?zoom=2&resize=150%2C150&ssl=1"
+				],
+				"name": "IRON MAN 2",
+				"fase": "Fase 1",
+				"date": 2010,
+				"description": "El mundo ya sabe quién es Iron Man. El ruso Ivan Vanko quiere acabar con él por venganza y el gobierno americano quiere que Stark comparta su tecnología.",
+				"actors": [
+					{
+						"_id": "62e985fb4d5bbb2468548239",
+						"name": "Don Cheadle",
+						"gender": "male",
+						"origin": "Missouri - EE.UU",
+						"createdAt": "2022-08-02T20:15:55.553Z",
+						"updatedAt": "2022-08-02T20:15:55.553Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e9860f4d5bbb246854823b",
+						"name": "Scarlett Johansson",
+						"gender": "female",
+						"origin": "Nueva York, - EE.UU",
+						"createdAt": "2022-08-02T20:16:15.877Z",
+						"updatedAt": "2022-08-02T20:16:15.877Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e986264d5bbb246854823d",
+						"name": "Samuel L. Jackson",
+						"gender": "male",
+						"origin": "Washington - EE-UU",
+						"createdAt": "2022-08-02T20:16:38.273Z",
+						"updatedAt": "2022-08-02T20:16:38.273Z",
+						"__v": 0
+					}
+				],
+				"createdAt": "2022-08-02T20:36:05.945Z",
+				"updatedAt": "2022-08-02T20:36:05.945Z",
+				"__v": 0
+			},
+			{
+				"_id": "62e98bfc4d5bbb2468548264",
+				"images": [
+					"https://i2.wp.com/padresfrikis.com/wp-content/uploads/2018/05/hulk.jpg?zoom=2&resize=150%2C150&ssl=1"
+				],
+				"name": "EL INCREÍBLE HULK",
+				"fase": "Fase 1",
+				"date": 2008,
+				"description": "Presentación de Hulk (Bruce Banner) y su origen. Mientras Banner se oculta para buscar cura a su mutación, el villano Abominación se convertirá en una amenaza",
+				"actors": [
+					{
+						"_id": "62e985c74d5bbb2468548233",
+						"name": "Edward Norton",
+						"gender": "male",
+						"origin": "Maryland, - EE.UU",
+						"createdAt": "2022-08-02T20:15:03.679Z",
+						"updatedAt": "2022-08-02T20:15:03.679Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e985d54d5bbb2468548235",
+						"name": "Liv Rundgren Tyler",
+						"gender": "female",
+						"origin": "Nueva York - EE-UU",
+						"createdAt": "2022-08-02T20:15:17.555Z",
+						"updatedAt": "2022-08-02T20:15:17.555Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e985e34d5bbb2468548237",
+						"name": "Tim Roth",
+						"gender": "male",
+						"origin": "Londres, Inglaterra - Reino Unido",
+						"createdAt": "2022-08-02T20:15:31.443Z",
+						"updatedAt": "2022-08-02T20:15:31.443Z",
+						"__v": 0
+					}
+				],
+				"createdAt": "2022-08-02T20:41:32.420Z",
+				"updatedAt": "2022-08-02T20:41:32.420Z",
+				"__v": 0
+			},
+			{
+				"_id": "62e98c0a4d5bbb2468548266",
+				"images": [
+					"https://i2.wp.com/padresfrikis.com/wp-content/uploads/2018/05/thor.jpg?zoom=2&resize=150%2C150&ssl=1"
+				],
+				"name": "THOR",
+				"fase": "Fase 1",
+				"date": 2011,
+				"description": "Presentación de Thor y su origen. La película reparte su historia entre Asgard, su reino, y la Tierra. Debe detener a Loki, su hermano, quien quiere destruirla.",
+				"actors": [
+					{
+						"_id": "62e9863d4d5bbb246854823f",
+						"name": "Chris Hemsworth",
+						"gender": "male",
+						"origin": "Melbourne - Australia",
+						"createdAt": "2022-08-02T20:17:01.508Z",
+						"updatedAt": "2022-08-02T20:17:01.508Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e9864f4d5bbb2468548241",
+						"name": "Natalie Portman",
+						"gender": "female",
+						"origin": "Jerusalén, - Israel",
+						"createdAt": "2022-08-02T20:17:19.084Z",
+						"updatedAt": "2022-08-02T20:17:19.084Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e9865b4d5bbb2468548243",
+						"name": "Anthony Hopkins",
+						"gender": "male",
+						"origin": "Gales - Inglaterra",
+						"createdAt": "2022-08-02T20:17:31.422Z",
+						"updatedAt": "2022-08-02T20:17:31.422Z",
+						"__v": 0
+					}
+				],
+				"createdAt": "2022-08-02T20:41:46.357Z",
+				"updatedAt": "2022-08-02T20:41:46.357Z",
+				"__v": 0
+			},
+			{
+				"_id": "62e98c154d5bbb2468548268",
+				"images": [
+					"https://i0.wp.com/padresfrikis.com/wp-content/uploads/2018/05/capitan-america.jpg?resize=150%2C150&ssl=1"
+				],
+				"name": "CAPITÁN AMÉRICA: EL PRIMER VENGADOR",
+				"fase": "Fase 1",
+				"date": 2011,
+				"description": "Presentación de Capitán América (Steve Rogers) y su origen. Un enclenque soldado se somete a unas pruebas y adquiere fuerza, velocidad y resistencia descomunales.",
+				"actors": [
+					{
+						"_id": "62e9863d4d5bbb246854823f",
+						"name": "Chris Hemsworth",
+						"gender": "male",
+						"origin": "Melbourne - Australia",
+						"createdAt": "2022-08-02T20:17:01.508Z",
+						"updatedAt": "2022-08-02T20:17:01.508Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e9864f4d5bbb2468548241",
+						"name": "Natalie Portman",
+						"gender": "female",
+						"origin": "Jerusalén, - Israel",
+						"createdAt": "2022-08-02T20:17:19.084Z",
+						"updatedAt": "2022-08-02T20:17:19.084Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e9865b4d5bbb2468548243",
+						"name": "Anthony Hopkins",
+						"gender": "male",
+						"origin": "Gales - Inglaterra",
+						"createdAt": "2022-08-02T20:17:31.422Z",
+						"updatedAt": "2022-08-02T20:17:31.422Z",
+						"__v": 0
+					}
+				],
+				"createdAt": "2022-08-02T20:41:57.735Z",
+				"updatedAt": "2022-08-02T20:41:57.735Z",
+				"__v": 0
+			},
+			{
+				"_id": "62e98c204d5bbb246854826a",
+				"images": [
+					"https://i1.wp.com/padresfrikis.com/wp-content/uploads/2018/05/vengadores.jpg?zoom=2&resize=150%2C150&ssl=1"
+				],
+				"name": "MARVEL: LOS VENGADORES",
+				"fase": "Fase 1",
+				"date": 2012,
+				"description": "Capitán América, Thor, Iron Man, Hulk, Ojo de Halcón y la Viuda Negra se unen en un supergrupo dirigido por Nick Furia, para acabar con la amenaza de Loki, que quiere dominar la Tierra con ayuda de la raza extraterrestre Chitauri. Esta raza le ayuda a cambio de la promesa de recibir el Teseracto.",
+				"actors": [
+					{
+						"_id": "62e9859b4d5bbb246854822d",
+						"name": "Robert John Downey Jr",
+						"gender": "male",
+						"origin": "Americano",
+						"createdAt": "2022-08-02T20:14:19.720Z",
+						"updatedAt": "2022-08-02T20:14:19.720Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e986674d5bbb2468548245",
+						"name": "Chris Evans",
+						"gender": "male",
+						"origin": "Boston, Massachusetts - EE.UU",
+						"createdAt": "2022-08-02T20:17:43.269Z",
+						"updatedAt": "2022-08-02T20:17:43.269Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e9868a4d5bbb246854824b",
+						"name": "Mark Ruffalo",
+						"gender": "male",
+						"origin": "Wisconsin, - EE.UU",
+						"createdAt": "2022-08-02T20:18:18.566Z",
+						"updatedAt": "2022-08-02T20:18:18.566Z",
+						"__v": 0
+					}
+				],
+				"createdAt": "2022-08-02T20:42:08.361Z",
+				"updatedAt": "2022-08-02T20:42:08.361Z",
+				"__v": 0
+			},
+			{
+				"_id": "62e98c2e4d5bbb246854826c",
+				"images": [
+					"https://i1.wp.com/padresfrikis.com/wp-content/uploads/2018/05/iron-man-3.jpg?zoom=2&resize=150%2C150&ssl=1"
+				],
+				"name": "IRON MAN 3",
+				"fase": "Fase 2",
+				"date": 2013,
+				"description": "Nueva aventura de Iron Man, en esta ocasión para acabar con el villano Mandarín. Tendrá la ayuda de Máquina de Guerra y de más armaduras auto-pilotadas.",
+				"actors": [
+					{
+						"_id": "62e9859b4d5bbb246854822d",
+						"name": "Robert John Downey Jr",
+						"gender": "male",
+						"origin": "Americano",
+						"createdAt": "2022-08-02T20:14:19.720Z",
+						"updatedAt": "2022-08-02T20:14:19.720Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e985bd4d5bbb2468548231",
+						"name": "Gwyneth Kate Paltrow",
+						"gender": "female",
+						"origin": "Los Ángeles, California - EE.UU",
+						"createdAt": "2022-08-02T20:14:53.273Z",
+						"updatedAt": "2022-08-02T20:14:53.273Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e985fb4d5bbb2468548239",
+						"name": "Don Cheadle",
+						"gender": "male",
+						"origin": "Missouri - EE.UU",
+						"createdAt": "2022-08-02T20:15:55.553Z",
+						"updatedAt": "2022-08-02T20:15:55.553Z",
+						"__v": 0
+					},
+					{
+						"_id": "62e986954d5bbb246854824d",
+						"name": "Ben Kingsley",
+						"gender": "male",
+						"origin": "Scarborough - Reino Unido",
+						"createdAt": "2022-08-02T20:18:29.968Z",
+						"updatedAt": "2022-08-02T20:18:29.968Z",
+						"__v": 0
+					}
+				],
+				"createdAt": "2022-08-02T20:42:22.203Z",
+				"updatedAt": "2022-08-02T20:42:22.203Z",
+				"__v": 0
+			}
+		]
+	}
+}
+]

@@ -1,0 +1,103 @@
+[{
+    "images": ["https://i0.wp.com/padresfrikis.com/wp-content/uploads/2018/05/iron-man.jpg?zoom=2&resize=150%2C150&ssl=1"],
+    "name": "IRON MAN",
+    "fase": "Fase 1",
+    "date": 208,
+    "description": "Presentación de Iron Man (Tony Stark) y su origen. La última escena consiste en Tony Stark reconociendo en una rueda de prensa que él es Iron Man.",
+    "actors": ["62e9af67d564f0e7ff7c26e4", "62e9af76d564f0e7ff7c26e6",  "62e9af86d564f0e7ff7c26e8"]
+    
+},
+{
+    "images": ["https://i2.wp.com/padresfrikis.com/wp-content/uploads/2018/05/hulk.jpg?zoom=2&resize=150%2C150&ssl=1"],
+    "name": "EL INCREÍBLE HULK",
+    "fase": "Fase 1",
+    "date": 2008,
+    "description": "Presentación de Hulk (Bruce Banner) y su origen. Mientras Banner se oculta para buscar cura a su mutación, el villano Abominación se convertirá en una amenaza",
+    "actors": ["62e9af92d564f0e7ff7c26ea", "62e9af9bd564f0e7ff7c26ec", "62e9afacd564f0e7ff7c26ee"]
+    
+},
+{
+    "images": ["https://i0.wp.com/padresfrikis.com/wp-content/uploads/2018/05/iron-man-2.jpg?zoom=2&resize=150%2C150&ssl=1"],
+    "name": "IRON MAN 2",
+    "fase": "Fase 1",
+    "date": 2010,
+    "description": "El mundo ya sabe quién es Iron Man. El ruso Ivan Vanko quiere acabar con él por venganza y el gobierno americano quiere que Stark comparta su tecnología.",
+    "actors": ["62e9afc5d564f0e7ff7c26f0", "62e9afd6d564f0e7ff7c26f2"
+    ,"62e9af67d564f0e7ff7c26e4", "62e9af86d564f0e7ff7c26e8", "62e9afe1d564f0e7ff7c26f4"
+    ]
+    
+},
+{
+    "images": ["https://i2.wp.com/padresfrikis.com/wp-content/uploads/2018/05/thor.jpg?zoom=2&resize=150%2C150&ssl=1"],
+    "name": "THOR",
+    "fase": "Fase 1",
+    "date": 2011,
+    "description": "Presentación de Thor y su origen. La película reparte su historia entre Asgard, su reino, y la Tierra. Debe detener a Loki, su hermano, quien quiere destruirla.",
+    "actors": ["62e9afebd564f0e7ff7c26f6", "62e9aff5d564f0e7ff7c26f8", "62e9b000d564f0e7ff7c26fa"]
+    
+},
+{
+    "images": ["https://i0.wp.com/padresfrikis.com/wp-content/uploads/2018/05/capitan-america.jpg?resize=150%2C150&ssl=1"],
+    "name": "CAPITÁN AMÉRICA: EL PRIMER VENGADOR",
+    "fase": "Fase 1",
+    "date": 2011,
+    "description": "Presentación de Capitán América (Steve Rogers) y su origen. Un enclenque soldado se somete a unas pruebas y adquiere fuerza, velocidad y resistencia descomunales.",
+    "actors": ["62e9b00ad564f0e7ff7c26fc","62e9b015d564f0e7ff7c26fe","62e9b01fd564f0e7ff7c2700"]
+    
+},
+{
+    "images": ["https://i1.wp.com/padresfrikis.com/wp-content/uploads/2018/05/vengadores.jpg?zoom=2&resize=150%2C150&ssl=1"],
+    "name": "MARVEL: LOS VENGADORES",
+    "fase": "Fase 1",
+    "date": 2012,
+    "description": "Capitán América, Thor, Iron Man, Hulk, Ojo de Halcón y la Viuda Negra se unen en un supergrupo dirigido por Nick Furia, para acabar con la amenaza de Loki, que quiere dominar la Tierra con ayuda de la raza extraterrestre Chitauri. Esta raza le ayuda a cambio de la promesa de recibir el Teseracto.",
+    "actors": ["62e9af67d564f0e7ff7c26e4", "62e9b00ad564f0e7ff7c26fc", "62e9b02ad564f0e7ff7c2702"]
+    
+},
+{
+    "images": ["https://i1.wp.com/padresfrikis.com/wp-content/uploads/2018/05/iron-man-3.jpg?zoom=2&resize=150%2C150&ssl=1"],
+    "name": "IRON MAN 3",
+    "fase": "Fase 2",
+    "date": 2013,
+    "description": "Nueva aventura de Iron Man, en esta ocasión para acabar con el villano Mandarín. Tendrá la ayuda de Máquina de Guerra y de más armaduras auto-pilotadas.",
+    "actors": [ "62e9b02ad564f0e7ff7c2702","62e9af67d564f0e7ff7c26e4", "62e986954d5bbb246854824d","62e9af86d564f0e7ff7c26e8"]
+    
+},
+{
+    "images": [],
+    "name": "",
+    "fase": "",
+    "date": 0,
+    "description": "",
+    "actors": [""]
+    
+},
+
+{
+    "images": [],
+    "name": "",
+    "fase": "",
+    "date": 0,
+    "description": "",
+    "actors": [""]
+    
+},
+
+{
+    "images": [],
+    "name": "",
+    "fase": "",
+    "date": 0,
+    "description": "",
+    "actors": [""]
+    
+},
+{
+    "images": [],
+    "name": "",
+    "fase": "",
+    "date": 0,
+    "description": "",
+    "actors": [""]
+    
+}]
