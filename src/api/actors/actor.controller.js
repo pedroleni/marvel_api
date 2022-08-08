@@ -45,7 +45,7 @@ const create = async (req, res, next) => {
         const actorInBd = await actor.save()
         return res.json({
             status: 201,
-            message: 'Created new element',
+            message: 'Created new actor',
             data: { actor: actorInBd }
         });
     } catch (error) {
